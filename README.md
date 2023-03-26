@@ -16,9 +16,5 @@ Demo URL：https://youtu.be/wTLPm9r2X20
 作業5：Stack、Heap  
 Demo URL：https://youtu.be/wTLPm9r2X20
 
-1. aaa
-2. bbb
-3. ccc
-
 ![image](https://user-images.githubusercontent.com/19266318/227772628-31ad128a-bffc-4b94-b89e-d2f4d0241849.png)
 
