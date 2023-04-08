@@ -2,7 +2,7 @@
 1112資料結構作業
 
 作業1：Prefix Sum、String  
-Prefix Sum Demo：https://youtu.be/fKXWnfZrSo4
+Prefix Sum Demo：https://youtu.be/fKXWnfZrSo4  
 String Demo：https://youtu.be/_aqFQzivJzo
 
 
