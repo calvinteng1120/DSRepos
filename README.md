@@ -2,8 +2,8 @@
 1112資料結構作業
 
 作業1：Prefix Sum、String  
-Prefix Sum Demo：https://youtu.be/fKXWnfZrSo4  
-String Demo：https://youtu.be/_aqFQzivJzo
+Prefix Sum(724. Find Pivot Index)：https://youtu.be/fKXWnfZrSo4  
+String(392. Is Subsequence)：https://youtu.be/_aqFQzivJzo
 
 
 作業2：Greedy、Tree  
