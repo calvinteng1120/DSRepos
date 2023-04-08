@@ -2,7 +2,9 @@
 1112資料結構作業
 
 作業1：Prefix Sum、String  
-Demo URL：https://youtu.be/wTLPm9r2X20
+Prefix Sum Demo：https://youtu.be/fKXWnfZrSo4
+String Demo：https://youtu.be/wTLPm9r2X20
+
 
 作業2：Greedy、Tree  
 Demo URL：
