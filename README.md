@@ -7,7 +7,7 @@ String(392. Is Subsequence)：https://youtu.be/_aqFQzivJzo
 
 
 作業2：Greedy、Tree  
-Demo URL：
+Demo URL：https://youtu.be/aXTfQvk7QTk  
 
 作業3：Binary Search  
 Demo URL：
