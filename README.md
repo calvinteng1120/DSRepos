@@ -10,7 +10,7 @@ String(392. Is Subsequence)：https://youtu.be/_aqFQzivJzo
 Demo URL：https://youtu.be/aXTfQvk7QTk  
 
 作業3：Binary Search  
-Demo URL：
+Demo URL：https://youtu.be/Oh_R1WaW-hc  
 
 作業4：Graph/BFS/DFS  
 Demo URL：https://youtu.be/0CWZmpoZB5Y  
